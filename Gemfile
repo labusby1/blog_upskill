@@ -48,9 +48,9 @@ group :development, :test do
   gem 'byebug'
 end
 
-group :production do
-  gem 'pg', '0.18.4'
-end
+#group :production do
+#  gem 'pg', '0.18.4'
+#end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
